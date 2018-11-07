@@ -1,0 +1,29 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #7d97ad;
+}
+
+.header_inner {
+	font-family: 'Julius Sans One', sans-serif;
+	color: #2d3c49;
+}
+
+.hero .hero_image{
+	width: 100%;
+}
+
+.fab {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.footer {
+	background-color: #F9F9F9;
+}
+
+.footer h6 {
+	margin: 30px 0 30px 0;
+}
